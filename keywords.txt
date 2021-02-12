@@ -1,0 +1,30 @@
+###########################################
+# Syntax Coloring Map For PELTIERBTS7960
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+PELTIERBTS7960	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+		KEYWORD2
+begin		KEYWORD2
+clear		KEYWORD2
+pwm		KEYWORD2
+en		KEYWORD2
+is		KEYWORD2
+speed		KEYWORD2
+control		KEYWORD2
+direction	KEYWORD2
+heat		KEYWORD2
+cool  		KEYWORD2
+start		KEYWORD2
+off  		KEYWORD2
+PELTIER		KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
